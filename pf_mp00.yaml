@@ -1,0 +1,165 @@
+mp_number: 0
+number_of_peers: 3
+number_of_submissions: 20
+assignments:
+  meyereisner:
+  - 76
+  - 127
+  - 115
+  jackeee101:
+  - 65
+  - 96
+  - 124
+  mclycke:
+  - 69
+  - 126
+  - 103
+  laurenrichbetch:
+  - 69
+  - 104
+  - 124
+  miggonzalz:
+  - 65
+  - 110
+  - 121
+  maryononye:
+  - 67
+  - 107
+  - 111
+  er0driguez:
+  - 69
+  - 98
+  - 103
+  raulsolanavarro:
+  - 76
+  - 106
+  - 126
+  jalfred259806:
+  - 67
+  - 109
+  - 98
+  kiran1051998:
+  - 77
+  - 107
+  - 100
+  helly101-1:
+  - 79
+  - 104
+  - 102
+  carmine-montaperto:
+  - 73
+  - 125
+  - 122
+  izabellediaz20:
+  - 68
+  - 100
+  - 96
+  anapau-tapia:
+  - 81
+  - 108
+  - 102
+  tommynelson1097:
+  - 87
+  - 104
+  - 104
+  khushwant-khatri590:
+  - 83
+  - 124
+  - 124
+  kevmarcel0:
+  - 90
+  - 98
+  - 97
+  monica-phan26:
+  - 82
+  - 105
+  - 96
+  janielave:
+  - 94
+  - 97
+  - 120
+  asarker00:
+  - 85
+  - 111
+  - 113
+issue_status:
+- number: 1
+  owner: meyereisner
+  ok: true
+  status_oneline: OK
+- number: 2
+  owner: jackeee101
+  ok: true
+  status_oneline: OK
+- number: 3
+  owner: mclycke
+  ok: true
+  status_oneline: OK
+- number: 4
+  owner: laurenrichbetch
+  ok: true
+  status_oneline: OK
+- number: 5
+  owner: miggonzalz
+  ok: true
+  status_oneline: OK
+- number: 6
+  owner: jalfred259806
+  ok: true
+  status_oneline: OK
+- number: 7
+  owner: raulsolanavarro
+  ok: true
+  status_oneline: OK
+- number: 8
+  owner: maryononye
+  ok: true
+  status_oneline: OK
+- number: 9
+  owner: er0driguez
+  ok: true
+  status_oneline: OK
+- number: 10
+  owner: kiran1051998
+  ok: true
+  status_oneline: OK
+- number: 11
+  owner: helly101-1
+  ok: true
+  status_oneline: OK
+- number: 12
+  owner: carmine-montaperto
+  ok: true
+  status_oneline: OK
+- number: 13
+  owner: izabellediaz20
+  ok: true
+  status_oneline: OK
+- number: 14
+  owner: tommynelson1097
+  ok: true
+  status_oneline: OK
+- number: 15
+  owner: khushwant-khatri590
+  ok: true
+  status_oneline: OK
+- number: 16
+  owner: anapau-tapia
+  ok: true
+  status_oneline: OK
+- number: 17
+  owner: kevmarcel0
+  ok: true
+  status_oneline: OK
+- number: 18
+  owner: monica-phan26
+  ok: true
+  status_oneline: OK
+- number: 20
+  owner: janielave
+  ok: true
+  status_oneline: OK
+- number: 21
+  owner: asarker00
+  ok: true
+  status_oneline: OK

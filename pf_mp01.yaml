@@ -1,0 +1,206 @@
+mp_number: 1
+number_of_peers: 4
+number_of_submissions: 20
+assignments:
+  jackeee101:
+  - 106
+  - 119
+  - 72
+  - 64
+  mclycke:
+  - 109
+  - 85
+  - 77
+  - 69
+  laurenrichbetch:
+  - 126
+  - 77
+  - 65
+  - 72
+  miggonzalz:
+  - 122
+  - 118
+  - 71
+  - 69
+  maryononye:
+  - 117
+  - 125
+  - 84
+  - 73
+  er0driguez:
+  - 121
+  - 111
+  - 72
+  - 69
+  raulsolanavarro:
+  - 79
+  - 92
+  - 97
+  - 78
+  jalfred259806:
+  - 127
+  - 115
+  - 65
+  - 110
+  kiran1051998:
+  - 119
+  - 105
+  - 89
+  - 99
+  helly101-1:
+  - 121
+  - 116
+  - 87
+  - 75
+  carmine-montaperto:
+  - 105
+  - 87
+  - 84
+  - 67
+  izabellediaz20:
+  - 107
+  - 80
+  - 73
+  - 77
+  anapau-tapia:
+  - 123
+  - 105
+  - 82
+  - 78
+  khushwant-khatri590:
+  - 106
+  - 73
+  - 95
+  - 83
+  kevmarcel0:
+  - 112
+  - 116
+  - 66
+  - 71
+  monica-phan26:
+  - 122
+  - 76
+  - 77
+  - 69
+  janielave:
+  - 116
+  - 114
+  - 80
+  - 94
+  asarker00:
+  - 117
+  - 126
+  - 74
+  - 69
+  felisita101:
+  - 113
+  - 117
+  - 78
+  - 85
+  dhwanikan:
+  - 120
+  - 109
+  - 76
+  - 79
+issue_status:
+- number: 24
+  owner: izabellediaz20
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 25
+  owner: carmine-montaperto
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 26
+  owner: maryononye
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 27
+  owner: kevmarcel0
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 28
+  owner: helly101-1
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 29
+  owner: jackeee101
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 30
+  owner: khushwant-khatri590
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 31
+  owner: raulsolanavarro
+  ok: false
+  status_oneline: Could not locate your AI Usage Statement - '.callout-note' block
+    title incorrect.
+  branch: main
+- number: 32
+  owner: laurenrichbetch
+  ok: false
+  status_oneline: Could not parse issue title
+  branch: main
+- number: 33
+  owner: dhwanikan
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 34
+  owner: felisita101
+  ok: false
+  status_oneline: Incorrect URL submitted
+  branch: main
+- number: 35
+  owner: kiran1051998
+  ok: false
+  status_oneline: Could not locate your AI Usage Statement - No '.callout-note' block.
+  branch: main
+- number: 36
+  owner: miggonzalz
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 37
+  owner: mclycke
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 38
+  owner: asarker00
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 40
+  owner: janielave
+  ok: false
+  status_oneline: Could not locate your AI Usage Statement - No '.callout-note' block.
+  branch: main
+- number: 41
+  owner: monica-phan26
+  ok: true
+  status_oneline: OK
+  branch: master
+- number: 42
+  owner: er0driguez
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 43
+  owner: anapau-tapia
+  ok: false
+  status_oneline: Could not locate your AI Usage Statement - No '.callout-note' block.
+  branch: main
+- number: 44
+  owner: jalfred259806
+  ok: true
+  status_oneline: OK
+  branch: main

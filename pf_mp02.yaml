@@ -1,0 +1,203 @@
+mp_number: 2
+number_of_peers: 3
+number_of_submissions: 20
+assignments:
+  meyereisner:
+  - 87
+  - 70
+  - 71
+  jackeee101:
+  - 93
+  - 82
+  - 44
+  mclycke:
+  - 79
+  - 94
+  - 80
+  laurenrichbetch:
+  - 95
+  - 86
+  - 34
+  miggonzalz:
+  - 88
+  - 88
+  - 81
+  maryononye:
+  - 91
+  - 77
+  - 82
+  er0driguez:
+  - 66
+  - 95
+  - 86
+  raulsolanavarro:
+  - 70
+  - 125
+  jalfred259806:
+  - 95
+  - 92
+  - 10
+  kiran1051998:
+  - 69
+  - 70
+  - 121
+  helly101-1:
+  - 87
+  - 52
+  - 35
+  carmine-montaperto:
+  - 77
+  - 51
+  izabellediaz20:
+  - 68
+  - 88
+  - 94
+  anapau-tapia:
+  - 67
+  - 69
+  - 81
+  khushwant-khatri590:
+  - 91
+  - 67
+  kevmarcel0:
+  - 92
+  - 86
+  - 83
+  janielave:
+  - 68
+  - 73
+  - 55
+  asarker00:
+  - 78
+  - 81
+  - 83
+  felisita101:
+  - 81
+  - 86
+  - 79
+  dhwanikan:
+  - 90
+  - 46
+  - 43
+issue_status:
+- number: 45
+  owner: felisita101
+  ok: false
+  status_oneline: "Could not access the following files:\n - https://felisita101.github.io/STA9750-2026-SPRING/site_libs/bootstrap/bootstrap-b88270fc82d54e1cef088be51ab81bec.min.css\n\
+    \ - https://felisita101.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-22-1.png\n\
+    \ - https://felisita101.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-23-1.png\n\
+    \ - https://felisita101.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-24-1.png\n\
+    \ - https://felisita101.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-25-1.png\n\
+    \ - https://felisita101.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-26-1.png\n\
+    \ - https://felisita101.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-27-1.png\n\
+    \ - https://felisita101.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-28-1.png\n\
+    Please make sure to `git add` the corresponding files from your\n`docs` repository.\
+    \ Once you have done this, make a new commit and\n`git push` to update your GitHub\
+    \ repository. You do not need to open\na new issue or re-post here (though adding\
+    \ a new comment won't hurt)\n- simply pushing the updated and corrected files\
+    \ will automatically \npropogate through to this issue thread."
+  branch: main
+- number: 48
+  owner: jackeee101
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 49
+  owner: kevmarcel0
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 50
+  owner: carmine-montaperto
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 51
+  owner: izabellediaz20
+  ok: false
+  status_oneline: Could not locate your AI Usage Statement - No '.callout-note' block.
+  branch: main
+- number: 52
+  owner: helly101-1
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 53
+  owner: khushwant-khatri590
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 54
+  owner: raulsolanavarro
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 56
+  owner: mclycke
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 57
+  owner: laurenrichbetch
+  ok: false
+  status_oneline: Could not locate your AI Usage Statement - No '.callout-note' block.
+  branch: main
+- number: 58
+  owner: anapau-tapia
+  ok: false
+  status_oneline: Could not locate your AI Usage Statement - No '.callout-note' block.
+  branch: main
+- number: 59
+  owner: miggonzalz
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 60
+  owner: maryononye
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 61
+  owner: kiran1051998
+  ok: false
+  status_oneline: "Could not access the following files:\n - https://Kiran1051998.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-9-1.png\n\
+    Please make sure to `git add` the corresponding files from your\n`docs` repository.\
+    \ Once you have done this, make a new commit and\n`git push` to update your GitHub\
+    \ repository. You do not need to open\na new issue or re-post here (though adding\
+    \ a new comment won't hurt)\n- simply pushing the updated and corrected files\
+    \ will automatically \npropogate through to this issue thread."
+  branch: main
+- number: 62
+  owner: dhwanikan
+  ok: false
+  status_oneline: "Could not identify qmd source document\n - Expected source file\
+    \ not found at: https://raw.githubusercontent.com/dhwanikan/STA9750-2026-SPRING/refs/heads/main/mp02.qmd"
+  branch: main
+- number: 63
+  owner: meyereisner
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 64
+  owner: janielave
+  ok: false
+  status_oneline: "Could not access the following files:\n - https://JanielAve.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-21-1.png\n\
+    \ - https://JanielAve.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-23-1.png\n\
+    \ - https://JanielAve.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-24-1.png\n\
+    \ - https://JanielAve.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-27-1.png\n\
+    Please make sure to `git add` the corresponding files from your\n`docs` repository.\
+    \ Once you have done this, make a new commit and\n`git push` to update your GitHub\
+    \ repository. You do not need to open\na new issue or re-post here (though adding\
+    \ a new comment won't hurt)\n- simply pushing the updated and corrected files\
+    \ will automatically \npropogate through to this issue thread."
+  branch: main
+- number: 65
+  owner: er0driguez
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 66
+  owner: asarker00
+  ok: false
+  status_oneline: "Could not access a formatting file"
+  branch: main

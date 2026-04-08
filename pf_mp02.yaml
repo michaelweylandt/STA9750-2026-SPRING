@@ -33,6 +33,7 @@ assignments:
   raulsolanavarro:
   - 70
   - 125
+  - 38
   jalfred259806:
   - 95
   - 92
@@ -48,6 +49,7 @@ assignments:
   carmine-montaperto:
   - 77
   - 51
+  - 42
   izabellediaz20:
   - 68
   - 88
@@ -59,6 +61,7 @@ assignments:
   khushwant-khatri590:
   - 91
   - 67
+  - 57
   kevmarcel0:
   - 92
   - 86
@@ -180,16 +183,8 @@ issue_status:
   branch: main
 - number: 64
   owner: janielave
-  ok: false
-  status_oneline: "Could not access the following files:\n - https://JanielAve.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-21-1.png\n\
-    \ - https://JanielAve.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-23-1.png\n\
-    \ - https://JanielAve.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-24-1.png\n\
-    \ - https://JanielAve.github.io/STA9750-2026-SPRING/mp02_files/figure-html/unnamed-chunk-27-1.png\n\
-    Please make sure to `git add` the corresponding files from your\n`docs` repository.\
-    \ Once you have done this, make a new commit and\n`git push` to update your GitHub\
-    \ repository. You do not need to open\na new issue or re-post here (though adding\
-    \ a new comment won't hurt)\n- simply pushing the updated and corrected files\
-    \ will automatically \npropogate through to this issue thread."
+  ok: true
+  status_oneline: OK
   branch: main
 - number: 65
   owner: er0driguez
@@ -199,5 +194,10 @@ issue_status:
 - number: 66
   owner: asarker00
   ok: false
-  status_oneline: "Could not access a formatting file"
+  status_oneline: "Could not access the following files:\n - https://asarker00.github.io/STA9750-2026-SPRING/@import"
+  branch: main
+- number: 67
+  owner: jalfred259806
+  ok: true
+  status_oneline: OK
   branch: main

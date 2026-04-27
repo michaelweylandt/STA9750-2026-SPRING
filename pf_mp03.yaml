@@ -1,0 +1,176 @@
+mp_number: 3
+number_of_peers: 3
+number_of_submissions: 19
+assignments:
+  meyereisner:
+  - 63
+  - 45
+  - 25
+  jackeee101:
+  - 42
+  - 56
+  - 49
+  laurenrichbetch:
+  - 47
+  - 42
+  - 49
+  miggonzalz:
+  - 47
+  - 62
+  - 49
+  maryononye:
+  - 61
+  - 33
+  - 61
+  er0driguez:
+  - 41
+  - 56
+  - 49
+  raulsolanavarro:
+  - 6
+  - 48
+  - 54
+  jalfred259806:
+  - 35
+  - 2
+  - 55
+  kiran1051998:
+  - 55
+  - 8
+  - 42
+  helly101-1:
+  - 63
+  - 45
+  - 59
+  carmine-montaperto:
+  - 59
+  - 58
+  - 34
+  izabellediaz20:
+  - 43
+  - 45
+  - 62
+  anapau-tapia:
+  - 34
+  - 57
+  - 50
+  khushwant-khatri590:
+  - 62
+  - 41
+  - 63
+  kevmarcel0:
+  - 40
+  - 42
+  - 34
+  monica-phan26:
+  - 33
+  - 41
+  - 39
+  asarker00:
+  - 44
+  - 62
+  - 32
+  felisita101:
+  - 35
+  - 60
+  - 62
+  dhwanikan:
+  - 43
+  - 36
+  - 60
+issue_status:
+- number: 68
+  owner: izabellediaz20
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 69
+  owner: miggonzalz
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 70
+  owner: carmine-montaperto
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 71
+  owner: helly101-1
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 73
+  owner: khushwant-khatri590
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 75
+  owner: felisita101
+  ok: false
+  status_oneline: Could not parse issue title
+  branch: main
+- number: 76
+  owner: kevmarcel0
+  ok: false
+  status_oneline: Could not locate your AI Usage Statement - No '.callout-note' block.
+  branch: main
+- number: 77
+  owner: jackeee101
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 78
+  owner: anapau-tapia
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 79
+  owner: raulsolanavarro
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 80
+  owner: maryononye
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 81
+  owner: dhwanikan
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 82
+  owner: meyereisner
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 83
+  owner: kiran1051998
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 84
+  owner: laurenrichbetch
+  ok: false
+  status_oneline: Could not parse issue title
+  branch: main
+- number: 85
+  owner: er0driguez
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 86
+  owner: monica-phan26
+  ok: true
+  status_oneline: OK
+  branch: master
+- number: 87
+  owner: asarker00
+  ok: true
+  status_oneline: OK
+  branch: main
+- number: 88
+  owner: jalfred259806
+  ok: true
+  status_oneline: OK
+  branch: main
